@@ -4,6 +4,8 @@ As a Fullstack Web Developer, I created a Logo generator that can take in answer
 # URL link
 
 https://github.com/maeahmad/SVG-LogoMaker
+![screencapture-courses-bootcampspot-courses-3173-assignments-50813-2023-05-15-22_22_41](https://github.com/maeahmad/SVG-LogoMaker/assets/122010497/fe7d6078-16b6-47d1-a68a-9603308f36b4)
+https://watch.screencastify.com/v/Njo7KcpsS6sgCDL458YC
 
 # About
 - When user inputs a three letter characters, it is used to create logo.
